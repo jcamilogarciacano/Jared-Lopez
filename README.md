@@ -1,5 +1,6 @@
 # Jared-Lopez
 2D juggling survival game simulator https://milorico.itch.io/jared-lopezo
+https://itch.io/jam/stayathomebga
 
 La tarde pinta bien, el transito atiborrado y la poca competencia me dan indicios de que me irá mejor que ayer, bah: ni comi bien para poder pagar la habitación, pero no debo perder el ritmo, si sigo trabajando tan duro pronto podré completar lo del arriendo, incluso podría cambiar mi gastado y bulloso monociclo.
 
